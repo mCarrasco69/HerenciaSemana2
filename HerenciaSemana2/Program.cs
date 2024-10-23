@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("los parametros del cuadrado son");
+        Console.WriteLine("Parametros del cuadrado");
 
         Cuadrado cuadrado = new Cuadrado(5);
 
